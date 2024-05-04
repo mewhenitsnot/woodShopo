@@ -1,0 +1,17 @@
+Selling Wood
+To sell wood in the Wood Store application, follow these steps:
+
+Click on the "Sell Wood" button in the main window.
+In the "Sell Wood" window, enter the wood density, length, and width in the respective input fields.
+Click the "Sell" button to calculate the price of wood based on the entered details.
+A message will appear displaying the calculated price of wood.
+You can close the "Sell Wood" window after completing the transaction.
+Viewing Orders
+To view orders in the Wood Store application, follow these steps:
+
+Click on the "View Orders" button in the main window.
+In the "View Orders" window, you will see a list of today's orders.
+To edit an order, select the order from the list and click the "Edit Order" button. You can then update the order details and save the changes.
+To cancel an order, select the order from the list and click the "Cancel Order" button. A message will appear indicating that the order has been canceled.
+To delete an order, select the order from the list and click the "Delete Order" button. A message will appear indicating that the order has been deleted.
+Exiting the Application
